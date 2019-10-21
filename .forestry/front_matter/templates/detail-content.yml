@@ -18,4 +18,5 @@ fields:
     schema:
       format: html-blocks
 pages:
+- _posts/The other test.md
 - _posts/tester page.html
