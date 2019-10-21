@@ -12,6 +12,7 @@ sections:
   label: Posts
   create: all
   templates:
+  - signup-bar
   - page-builder
 - type: directory
   path: ''
