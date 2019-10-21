@@ -16,6 +16,6 @@ content: ''
 
 ###### H6
 
-[I'm an inline-style link\]([https://www.google.com](https://www.google.com "https://www.google.com"))
+[This is a link](http://google.com "Link")
 
-[I'm an inline-style link with title\]([https://www.google.com](https://www.google.com "https://www.google.com") "Google's Homepage")
+jd [link 2](http://yahoo.com "Yahoo")
