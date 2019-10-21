@@ -11,9 +11,6 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-  templates:
-  - signup-bar
-  - page-builder
 - type: directory
   path: ''
   label: Pages
