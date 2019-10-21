@@ -19,3 +19,5 @@ content: ''
 [This is a link](http://google.com "Link")
 
 jd [link 2](http://yahoo.com "Yahoo")
+
+[This is a link](http://google.com "Link")
